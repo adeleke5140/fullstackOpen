@@ -1,0 +1,1 @@
+Posting a new note in a SPA
